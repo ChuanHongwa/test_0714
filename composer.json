@@ -1,0 +1,14 @@
+{
+    "name": "chwa/chuanhong0714",
+    "description": "Test Project",
+    "type": "Project",
+    "license": "Personal",
+    "authors": [
+        {
+            "name": "chuanhong",
+            "email": "abigvictory1994@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
